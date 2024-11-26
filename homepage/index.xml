@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rocoffee</title>
-    <link>https://rocoffeeroster.github.io/</link>
-    <description>Recent content on Rocoffee</description>
+    <title>Homepages on Rocoffee</title>
+    <link>https://rocoffeeroster.github.io/homepage/</link>
+    <description>Recent content in Homepages on Rocoffee</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
-    <atom:link href="https://rocoffeeroster.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rocoffeeroster.github.io/homepage/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My New Content</title>
       <link>https://rocoffeeroster.github.io/homepage/my-new-content/</link>
